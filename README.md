@@ -46,6 +46,8 @@ Individual-based model, using mussel aggregative patterning as an example.
 
 3.2 - Arid vegetation patterns - Klausmeier.ipynb
 
+3.3 - Predator-Prey Spiral Waves.ipynb
+
 4.1 - Shallow water equations with a Tussock.ipynb
 
 5.1 - Using Numba to accelerate the mussel model.ipynb
