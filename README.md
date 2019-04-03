@@ -1,10 +1,13 @@
 Marine Modelling in Python
 ==========================
 
-A course at the Royal Netherlands Institute for Sea Research (NIOZ) - Yerseke
+A Python course given at the Royal Netherlands Institute for Sea Research (NIOZ) - Yerseke
 
 This repository represent the materials used and develop at the PhD course
 "Marine modelling in Python" which starts at September 17 2018 in Yerseke, the Netherlands.
+
+Participants and contributors were (in aplhabetical order):
+Camilla Bertolini, Celine van Bijsterveldt, Chiu Cheng, Tom Cox, Greg Fivash, Evert de Froe, Marieke Hagg, Rosanna van Hespen, Anna van der Kaaden, Marc Rovira, Tri Tri Juliansyah Muharam Sambas, Koen Siteur, Jaco de Smit, Tanja Stratmann, Roeland van de Vijsel, Daphne van der Wal, Lauren Wiesebron, Eva-Maria Zetsche, and Heyue Zhang.
 
 The repository will contain the lecture sheets, the example Jupyter notebooks,
 and the notebooks developed by the students during the course, about the
@@ -71,3 +74,6 @@ Accelerating the Mandelbrot fractal - 1 Numba.ipynb
 Accelerating the Mandelbrot fractal - 2 Cython.ipynb
 
 Accelerating the Mandelbrot fractal - 3 cpp.ipynb
+
+## Folder: Groupwork
+Soon to follow
